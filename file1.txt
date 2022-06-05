@@ -1,4 +1,4 @@
 line 1 changes in master branch 
 line 2 changes in bug 1 branch .. 
-line 3 
+line 3 change ..sdlfksldfkj 
 line 4
